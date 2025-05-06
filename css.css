@@ -2,3 +2,17 @@
     background-color: green;
     color: blue;
 }
+
+.img {
+    margin-top: 10px;
+}
+
+.img2 {
+    margin-top: 10px;
+}
+
+.img3 {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
